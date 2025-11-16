@@ -1,8 +1,8 @@
-📊 Visualização de Dados de Estoque com Matplotlib
+ Visualização de Dados de Estoque com Matplotlib
 
 Este é um script Python que utiliza a biblioteca matplotlib para gerar um dashboard 2x2, apresentando quatro tipos diferentes de gráficos para análise de dados de estoque.
 
-📈 Dashboard Gerado
+ Dashboard Gerado
 
 O script gera uma única janela com os seguintes quatro gráficos:
 
@@ -14,12 +14,12 @@ Gráfico de Pizza (Proporção de Categorias): Exibe a proporção percentual do
 
 Gráfico de Dispersão (Preço vs. Quantidade): Analisa a correlação entre o preço unitário de um item e a quantidade disponível em estoque.
 
-<!--
+
 Dica: Rode o script, tire um print screen (captura de tela) da janela do gráfico, salve como uma imagem (ex: dashboard_estoque.png) no seu repositório e descomente a linha abaixo para exibi-la aqui!
 
--->
 
-⚙️ Requisitos
+
+ Requisitos
 
 Este script requer a biblioteca matplotlib. A fonte DejaVu Sans é recomendada no código para melhor renderização, mas geralmente já vem incluída na instalação padrão do matplotlib.
 
@@ -28,7 +28,7 @@ Você pode instalar a biblioteca necessária usando pip:
 pip install matplotlib
 
 
-🚀 Como Executar
+ Como Executar
 
 Certifique-se de que você tem o Python e o matplotlib instalados.
 
